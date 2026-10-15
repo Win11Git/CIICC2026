@@ -17,7 +17,7 @@ public class Task6 {
                     }
                     else{
                         if(numbers[i] % 2 == 0) {
-                                System.out.print(numbers[i] + " ");
+                                System.out.println(numbers[i]);
                             }
                             else{
 
