@@ -23,7 +23,7 @@ public class Task5 {
         if (num[0].equals(num[1]) && num[1].equals(num[2])){
             System.out.println("All numbers are equal");
         }
-        // else if (num[0].equals(num[1]) || num[1].equals(num[2])){     // optional   
+        // else if (num[0].equals(num[1]) || num[1].equals(num[2])){     // Optional   
         //     System.out.println("Two numbers are equal");
         // }
         else{
